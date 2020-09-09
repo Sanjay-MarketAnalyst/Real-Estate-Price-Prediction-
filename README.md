@@ -6,12 +6,11 @@ To determine whether the asking price of the house is higher or lower than the t
 **Some interesting plots derived from the dataset**
 
 <img src="https://user-images.githubusercontent.com/68782458/92631773-79a23300-f2ef-11ea-957c-87857e9af0aa.png" width="400" height="200">
-
 <img src="https://user-images.githubusercontent.com/68782458/92632537-b40bd000-f2ef-11ea-8188-9aa647e41b4b.png" width="400" height="200">
 
 <img src="https://user-images.githubusercontent.com/68782458/92633010-d56cbc00-f2ef-11ea-933e-585db660a1ee.png" width="600" height="300">
 
-**Residuals**
+<**Residuals** font-size: 14px>
 
 <img src="https://user-images.githubusercontent.com/68782458/92633174-00efa680-f2f0-11ea-9076-8f35df0b2988.png" width="600" height="300">
 
