@@ -18,3 +18,5 @@ To determine whether the asking price of the house is higher or lower than the t
 <img src="https://user-images.githubusercontent.com/68782458/92633292-34323580-f2f0-11ea-8ad8-7e4cd4a55908.png" width="700" height="400">
 
 With 95.1% coverage, it is hence proved that 95.1% of the time the predicted price falls within the 95% credible interval of the dataset. Question of model’s handling of uncertainity should be doubted only if the coverage is below 95%, which is not the case in the final model designed.
+
+<font color="red">This is some text!</font>
